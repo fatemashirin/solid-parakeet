@@ -1,1 +1,1 @@
-vue-test-project
+vuexProject
