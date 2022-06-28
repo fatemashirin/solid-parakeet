@@ -1,0 +1,42 @@
+{
+    "products":[
+        {
+    
+          "id":1,
+          "title":"dolor",
+          "description":"Dolor qui dicta voluptate ab atque velit.",
+          "image":"https://via.placeholder.com/150x100",
+          "price":"68.0",
+          "created_at":"2019-10-31 20:51:37",
+          "updated_at":"2019-10-31 20:51:37"
+        },
+        {
+          "id":2,
+          "title":"laboriosam",
+          "description":"Praesentium est corrupti recusandae pariatur sit numquam.",
+          "image":"https://via.placeholder.com/150x100",
+          "price":"62.0",
+          "created_at":"2019-10-31 20:51:37",
+          "updated_at":"2019-10-31 20:51:37"
+    },
+    {
+          "id":3,
+          "title":"veniam",
+          "description":"Culpa fugit quam repellat tempora voluptates quo.",
+          "image":"https://via.placeholder.com/150x100",
+          "price":"73.0",
+          "created_at":"2019-10-31 20:51:37",
+          "updated_at":"2019-10-31 20:51:37"
+    },
+    {
+        "id":4,
+        "title":"veniam",
+        "description":"Culpa fugit quam repellat tempora voluptates quo.",
+        "image":"https://via.placeholder.com/150x100",
+        "price":"93.0",
+        "created_at":"2019-10-31 20:51:37",
+        "updated_at":"2019-10-31 20:51:37"
+  }
+
+    ]
+}
